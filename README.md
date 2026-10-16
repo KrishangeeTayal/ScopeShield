@@ -33,5 +33,5 @@ Before running ScopeShield, install:
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPO_URL
-cd scopeshield
+git clone https://github.com/KrishangeeTayal/ScopeShield.git
+cd ScopeShield
